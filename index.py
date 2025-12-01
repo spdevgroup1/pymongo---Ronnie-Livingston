@@ -44,7 +44,7 @@ contents = '''<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <head>
 <meta content="text/html; charset=ISO-8859-1"
 http-equiv="content-type">
-<title>Python Webbrowser</title>
+<title>News Site 1</title>
 </head>
 <body>
 <table>
